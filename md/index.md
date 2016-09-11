@@ -1,4 +1,4 @@
-<a href = 'http://marqueewinq.github.io'> Switch to plain html version </a>
+<a href = 'https://marqueewinq.github.io'> Switch to plain html version </a>
 
 ## Vinogradov S. Mark
 
