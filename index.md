@@ -1,7 +1,7 @@
 
 ## Vinogradov S. Mark
 
-<img src = 'mark.jpg' height = '256px'>
+<img src = 'http://i.imgur.com/C45IGiJ.jpg' height = '256px'>
 
 +7 906 078 2676
 <a href = "mailto:marqueewinq@gmail.com">marqueewinq@gmail.com</a>
